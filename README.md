@@ -2,9 +2,9 @@
   
 # 👋 Olá, eu sou **Ademisson Franco**
 
-**Desenvolvedor Mobile | React Native & TypeScript Specialist**
+**Desenvolvedor Mobile Autodida | 1.5 anos transformando estudos em projetos reais**
 
-*Transformando ideias em experiências digitais excepcionais*
+*De zero a 3 apps funcionais: uma jornada de dedicação e aprendizado contínuo*
 
 [![GitHub](https://img.shields.io/badge/GitHub-ademisson--Auto-black?logo=github)](https://github.com/ademisson-Auto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ademisson-silva-1206a6371/)
@@ -15,41 +15,52 @@
 
 ---
 
-## 🎯 **Sobre Mim**
+## 🎯 **Minha Jornada**
 
 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas  
-🚀 **Especialista** em desenvolvimento mobile com React Native  
-📱 **3 apps completos** desenvolvidos e documentados  
-🌐 **Disponível** para trabalho remoto e oportunidades jr/pleno  
+📅 **1.5 anos** de estudos intensivos em programação (autodidata)  
+📱 **3 apps completos** desenvolvidos do zero com IA como assistente  
+💻 **100% das linhas de código** escritas por mim, APIs criadas por mim  
+🎆 **Transição de carreira** - em busca da primeira oportunidade jr  
+🌐 **Disponível** para trabalho remoto e estágio
 
 ---
 
 ## 🛠️ **Stack Tecnológico**
 
-### 📱 **Mobile & Frontend**
+### 📱 **Mobile & Frontend** (1.5 anos de estudo)
 ```
-🚀 React Native    ⭐⭐⭐⭐⭐  Expert
-🔷 TypeScript      ⭐⭐⭐⭐⭐  Expert  
-⚡ Expo             ⭐⭐⭐⭐⭐  Expert
-🧭 React Navigation ⭐⭐⭐⭐⚪  Avançado
-🎨 Reanimated      ⭐⭐⭐⭐⚪  Avançado
+🚀 React Native    ⭐⭐⭐⭐⚪  Sólido (3 projetos reais)
+🔷 TypeScript      ⭐⭐⭐⭐⚪  Sólido (tipagem completa)
+⚡ Expo             ⭐⭐⭐⭐⚪  Sólido (workflow completo)
+🧭 React Navigation ⭐⭐⭐⚪⚪  Intermediário
+🎨 Reanimated      ⭐⭐⭐⚪⚪  Intermediário
 ```
 
 ### 💾 **Backend & Dados**
 ```
-🔋 Supabase         ⭐⭐⭐⭐⭐  Expert
-💾 PostgreSQL      ⭐⭐⭐⭐⚪  Avançado
-🔐 Authentication   ⭐⭐⭐⭐⭐  Expert
-📏 AsyncStorage     ⭐⭐⭐⭐⭐  Expert
+🔋 Supabase         ⭐⭐⭐⭐⚪  Sólido (auth + DB)
+💾 PostgreSQL      ⭐⭐⭐⚪⚪  Intermediário (via Supabase)
+🔐 Authentication   ⭐⭐⭐⭐⚪  Sólido (implementado)
+📏 AsyncStorage     ⭐⭐⭐⭐⚪  Sólido (offline-first)
 ```
 
 ### 🚀 **DevOps & Ferramentas**
 ```
-🤖 GitHub Actions   ⭐⭐⭐⭐⚪  Avançado
-🌐 Git Version Control ⭐⭐⭐⭐⭐  Expert
-📄 Documentation    ⭐⭐⭐⭐⭐  Expert
-🐛 VS Code          ⭐⭐⭐⭐⭐  Expert
+🤖 GitHub Actions   ⭐⭐⭐⚪⚪  Intermediário (CI/CD básico)
+🌐 Git Version Control ⭐⭐⭐⭐⚪  Sólido (workflow diário)
+📄 Documentation    ⭐⭐⭐⭐⭐  Forte (READMEs detalhados)
+🐛 VS Code          ⭐⭐⭐⭐⭐  Forte (configurações avançadas)
 ```
+
+## 🎨 **Como Eu Aprendo**
+
+🤖 **IA como Mentora** - ChatGPT, Claude e Copilot para acelerar aprendizado  
+📁 **Projetos Reais** - Cada conceito aplicado em apps funcionais  
+📚 **Documentação Oficial** - Sempre consultando React Native, Expo e Supabase docs  
+🛠️ **Trial & Error** - Aprendendo com erros e debugs constantes  
+📹 **YouTube & Cursos** - Complementando com conteúdo educativo  
+👥 **Comunidade** - Participo de fóruns e grupos de desenvolvedores
 
 ---
 
@@ -123,10 +134,12 @@
 
 ## 🚀 **O que estou fazendo agora**
 
-📱 Criando mais apps React Native incríveis  
-📚 Estudando arquiteturas avançadas e patterns  
-🌐 Contribuindo para projetos open source  
-👥 Procurando oportunidades como desenvolvedor jr/pleno  
+🔍 **Primeira Oportunidade** - Procurando minha primeira vaga como dev jr  
+📱 **Novos Projetos** - Expandindo portfólio com apps mais complexos  
+📚 **Aprendizado Contínuo** - Estudando Clean Architecture e TDD  
+🤝 **Networking** - Conectando com devs e participando da comunidade  
+💼 **Aplicações** - Enviando currículo para vagas jr e estágios  
+🛠️ **Aprimorando Skills** - Focando em testes e boas práticas
 
 ---
 
